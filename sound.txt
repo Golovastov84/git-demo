@@ -1,3 +1,7 @@
 Life of the muun
 
+<<<<<<< HEAD
 Greneda, Grenada.
+=======
+Greneda, Grenada.
+>>>>>>> refs/remotes/origin/main
