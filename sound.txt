@@ -7,5 +7,5 @@ merge (with a merge conflict)
 
 Commit_1 main
 
-Commit_2 main
+Commit_2 ficha
 
