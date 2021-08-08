@@ -10,4 +10,4 @@ Commit_1 main
 Commit_2 main 2
 Commit_2 ficha
 Commit_3 pull 1
-Commit_4 variant server
+Commit_4 variant lokal
