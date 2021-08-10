@@ -27,3 +27,5 @@ Fich_5_2
 
 
 main_5_2
+
+Ficha_6_1
