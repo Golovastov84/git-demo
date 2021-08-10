@@ -28,16 +28,17 @@ Fich_5_2
 
 main_5_2
 
-<<<<<<< HEAD
+
 Ficha_6_1
 
 Ficha_6_2
 
-main_7_1
-
-main_7_2
-=======
 main_6_1
 
 main_6_2
->>>>>>> 2aca64364171e9907fc16a78c3bccef1330a9766
+
+main_7_1
+
+main_7_2
+
+
