@@ -29,3 +29,5 @@ Fich_5_2
 main_5_2
 
 main_6_1
+
+main_6_2
