@@ -1,0 +1,23 @@
+From 5d43cb6bdb4806c216262d8f88cad9260c02d15f Mon Sep 17 00:00:00 2001
+From: Vasya Golovastov <VSGolovastov@gmail.com>
+Date: Tue, 10 Aug 2021 16:17:13 +0400
+Subject: [PATCH] reset_12_1
+
+---
+ 1.txt | 3 +++
+ 1 file changed, 3 insertions(+)
+
+diff --git a/1.txt b/1.txt
+index 4d56bcb..41265ea 100644
+--- a/1.txt
++++ b/1.txt
+@@ -65,3 +65,6 @@ main_11_1
+ 
+ stash_1_1
+ 
++reset_12_1
++
++
+-- 
+2.32.0.windows.1
+
